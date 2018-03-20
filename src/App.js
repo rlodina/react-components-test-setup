@@ -47,14 +47,14 @@ class App extends Component {
           type="button"
           onClick={this.onIncrement}
         >
-          Increment ++
+          Increment
         </button>
 
         <button
           type="button"
           onClick={this.onDecrement}
         >
-          Decrement --
+          Decrement
         </button>
       </div>
     );
