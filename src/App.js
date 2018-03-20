@@ -14,7 +14,7 @@ class App extends Component {
     super();
 
     this.state = {
-      counter: 1,
+      counter: 0,
       asyncCounters: null,
     };
 
